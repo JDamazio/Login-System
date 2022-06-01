@@ -1,5 +1,4 @@
 <?php include_once'lock.php'; ?>
-<?php include_once'../database/whisky.dao.php';?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
